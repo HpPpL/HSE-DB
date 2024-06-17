@@ -1,0 +1,6 @@
+"period_id","month","year","total_income","total_expense_electricity","total_expense_trash_removal","total_expense_security","total_expense_bank_service","total_expense_office_supplies","total_expense_internet","total_expense_equipment_maintenance","total_expense_salaries","total_expense_rent","total_expense_software_purchase"
+1,11,2023,"5000","1500","0","0","0","0","0","0","0","0","0"
+2,12,2023,"0","0","500","0","0","0","0","0","0","0","0"
+3,1,2024,"0","0","0","2000","0","0","0","0","0","0","0"
+4,2,2024,"4500","0","0","0","300","0","0","0","0","0","0"
+5,3,2024,"0","0","0","0","0","250","0","0","0","0","0"
